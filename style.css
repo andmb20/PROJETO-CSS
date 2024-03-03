@@ -79,10 +79,7 @@ p {
 }
 
 @media screen and (max-width:800px) {
-    * {
-        margin-right: 10%;
-    }
-
+    
     header {
         display: none;
     }
